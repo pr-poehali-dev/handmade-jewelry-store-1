@@ -62,8 +62,8 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-gold/20 to-bronze/20 rounded-full blur-3xl"></div>
               <img 
-                src="/img/a25c9ede-117c-42c9-a651-44223af9e736.jpg" 
-                alt="Ювелирные изделия"
+                src="https://cdn.poehali.dev/files/cdacf9a2-8917-49e3-a1fb-657a1b29b660.jpg" 
+                alt="Техническая схема КАМАЗа"
                 className="relative z-10 w-full h-[600px] object-cover rounded-2xl shadow-2xl hover-scale"
               />
             </div>
